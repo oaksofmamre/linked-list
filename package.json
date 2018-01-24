@@ -1,0 +1,9 @@
+{
+  "name": "linked-list",
+  "version": "1.0.0",
+  "description": "Implementing a linked-list in Node.js",
+  "main": "list.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
